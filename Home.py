@@ -10,5 +10,5 @@ st.write(''' <center> <h6>
 This  app is created to analyze the dataset of all the olympic games from 1896 to 2014.</center> </h6>''',
  unsafe_allow_html=True)  
 
-st.image("sources\960x0.jpg", width=700)
+st.image("sources\960x0.jpg")
 
